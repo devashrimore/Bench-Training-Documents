@@ -1,0 +1,13 @@
+Training Case Study
+
+
+NAME : ROLL-OFF PROJECT
+
+
+-> GitHub Link Of HLD,LLD     - https://github.com/devashrimore/CaseStudy_Documents
+
+
+-> GitHub Link For Angular UI - https://github.com/devashrimore/RollOff_UI
+
+
+-> GitHub Link For WebAPI     - https://github.com/devashrimore/RollOff_WebAPI
