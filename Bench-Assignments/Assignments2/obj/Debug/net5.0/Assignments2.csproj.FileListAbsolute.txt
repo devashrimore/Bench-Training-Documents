@@ -1,0 +1,16 @@
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\Assignments2.exe
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\Assignments2.deps.json
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\Assignments2.runtimeconfig.json
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\Assignments2.runtimeconfig.dev.json
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\Assignments2.dll
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\ref\Assignments2.dll
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\bin\Debug\net5.0\Assignments2.pdb
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.csproj.AssemblyReference.cache
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.AssemblyInfoInputs.cache
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.AssemblyInfo.cs
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.csproj.CoreCompileInputs.cache
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.dll
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\ref\Assignments2.dll
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.pdb
+C:\Users\DEVAMORE\Documents\DEV\Git-Data-Index\Bench-Assignments\4-5-2023\obj\Debug\net5.0\Assignments2.genruntimeconfig.cache
